@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-DataCleaning"
+description = "Image cropping and Image resizing"
+version = "0.1.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/Jacky-MYQ/comfyui-DataCleaning"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "linsensen"
+DisplayName = "comfyui-DataCleaning"
+Icon = ""
