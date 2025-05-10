@@ -2,7 +2,7 @@
 🥰🥰🥰🥰
 This custom node can be used in Image cropping and Image resizing!  It's easy to use and understand! Hope you like it! 
 
-The original intention of this node is to ensure data security, expecially on your personal data. If you find this useful, please consider giving it a star — your support really helps！⭐️⭐️⭐️
+The original intention of this node is to ensure data security, expecially on your personal data. If you find this useful, please consider giving it a star — your support really helps！⭐️⭐️⭐️  
 (If you have some good advices, please contact me in the issues!)
 
 # Example
