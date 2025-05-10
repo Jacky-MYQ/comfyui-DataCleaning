@@ -2,7 +2,7 @@
 🥰🥰🥰🥰
 This custom node can be used in Image cropping and Image resizing!  It's easy to use and understand! Hope you like it! 
 
-The original intention of this node is to ensure data security, expecially on your personal data.
+The original intention of this node is to ensure data security, expecially on your personal data. If you find this useful, please consider giving it a star — your support really helps！⭐️⭐️⭐️
 (If you have some good advices, please contact me in the issues!)
 
 # Example
@@ -21,5 +21,5 @@ or use the `save images` button to save all the images to your local path which 
 3. you can either use `ComfyUI-Manager` to install it.
 
 # To Do List
-- [x] Basic interface and Basic function including crop and resize.
+- [x] Basic interface and functions: crop and resize.
 - [ ] Add the segmentation function to process the images in order to remove the background or obtain the subject which you want to use only.
